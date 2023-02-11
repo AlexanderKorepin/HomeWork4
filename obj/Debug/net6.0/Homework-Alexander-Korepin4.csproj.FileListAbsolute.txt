@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\Homework-Alexander-Korepin4.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\Homework-Alexander-Korepin4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\Homework-Alexander-Korepin4.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\Homework-Alexander-Korepin4.AssemblyInfo.cs
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\Homework-Alexander-Korepin4.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\bin\Debug\net6.0\Homework-Alexander-Korepin4.exe
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\bin\Debug\net6.0\Homework-Alexander-Korepin4.deps.json
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\bin\Debug\net6.0\Homework-Alexander-Korepin4.runtimeconfig.json
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\bin\Debug\net6.0\Homework-Alexander-Korepin4.dll
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\bin\Debug\net6.0\Homework-Alexander-Korepin4.pdb
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\Homework-Alexander-Korepin4.dll
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\refint\Homework-Alexander-Korepin4.dll
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\Homework-Alexander-Korepin4.pdb
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\Homework-Alexander-Korepin4.genruntimeconfig.cache
+C:\Users\aleks\Desktop\HomeWork\Homework-Alexander-Korepin4\obj\Debug\net6.0\ref\Homework-Alexander-Korepin4.dll
